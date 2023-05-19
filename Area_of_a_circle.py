@@ -1,3 +1,3 @@
-n=int(input())
+n=float(input())
 k=3.14*n*n
-print(f"{k:.2f}")
+print("{0:.2f}".format(k))
