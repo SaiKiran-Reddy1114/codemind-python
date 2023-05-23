@@ -1,3 +1,2 @@
 n=int(input())
-k=n%9
-print(k)
+print(n%9)
